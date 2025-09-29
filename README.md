@@ -7,9 +7,9 @@ This project performs Exploratory Data Analysis (EDA) on a pizza sales dataset t
     
    2. Visualize distributions, relationships, and correlations
 
-  3.Identify top-selling pizzas and revenue drivers
+   3.Identify top-selling pizzas and revenue drivers
   
-  4.Analyze time-based sales trends
+   4.Analyze time-based sales trends
 
 🛠️ Tools Used
 
