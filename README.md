@@ -4,9 +4,9 @@ This project performs Exploratory Data Analysis (EDA) on a pizza sales dataset t
 
 📌 Objectives
 
-   1. Explore dataset structure and summary statistics
+1. Explore dataset structure and summary statistics
     
-   2. Visualize distributions, relationships, and correlations
+2. Visualize distributions, relationships, and correlations
 
    3.Identify top-selling pizzas and revenue drivers
   
